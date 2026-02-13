@@ -1,0 +1,20 @@
+App Name: UniClinic
+Purpose: Book doctor appointments online.
+ 
+Features:
+- Create account using email + password.
+- Login using email + password.
+- Book an appointment by choosing: doctor, date, time slot.
+- Cancel appointment up to 2 hours before the appointment.
+ 
+Support:
+- Support hours: 9 AM to 5 PM (Sunday to Thursday).
+- Contact email: support@uniclinic.com
+ 
+Pricing:
+- Booking is free.
+- Doctors set their own consultation fees.
+ 
+Platforms:
+- Android only.
+- iOS is not available yet.
